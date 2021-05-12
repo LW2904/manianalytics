@@ -15,7 +15,7 @@
     "watchify": "^3.11.1"
   },
   "dependencies": {
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "lzma": "^2.3.2"
   }
 }
